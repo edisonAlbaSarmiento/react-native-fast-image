@@ -46,7 +46,7 @@ Even so many people have noticed:
 and
 [Glide (Android)](https://github.com/bumptech/glide).
 
-Example whith styled-components 
+## Example whith styled-components 
 
 ```jsx
 import styled from 'styled-components/native';
