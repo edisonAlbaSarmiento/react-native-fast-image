@@ -17,24 +17,6 @@ Performant React Native image component.
 
 </div>
 
-Example whith styled-components 
-
-```jsx
-import styled from 'styled-components/native';
-
-import FastImage from 'react-native-fast-image'
-
-export const ImageUser = styled(FastImage)`
-  width: 96px;
-  height: 96px;
-  border-radius: 40px;
-  position: absolute;
-  margin-top: 8%;
-  margin-left: 8%;
-`;
-
-```
-
 <p align="center" >
   <kbd>
     <img src="https://github.com/DylanVann/react-native-fast-image/raw/master/docs/assets/scroll.gif" title="Scroll Demo" float="left">
@@ -63,6 +45,24 @@ Even so many people have noticed:
 [SDWebImage (iOS)](https://github.com/rs/SDWebImage)
 and
 [Glide (Android)](https://github.com/bumptech/glide).
+
+Example whith styled-components 
+
+```jsx
+import styled from 'styled-components/native';
+
+import FastImage from 'react-native-fast-image'
+
+export const ImageUser = styled(FastImage)`
+  width: 96px;
+  height: 96px;
+  border-radius: 40px;
+  position: absolute;
+  margin-top: 8%;
+  margin-left: 8%;
+`;
+
+```
 
 ## Features
 
