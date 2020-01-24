@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚩 FastImage
+  🚩 FastImage edi
 </h1>
 
 <div align="center">
